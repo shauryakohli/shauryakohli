@@ -7,6 +7,13 @@
 - 📫 How to reach me: <a href=" https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/">LINKEDIN</a> 
 - 😄 Pronouns: Learning and Exploring
 
+(https://github-readme-stats.vercel.app/api?username=ShauryaKohli&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaKohli&theme=midnight-purple&layout=compact)](https://github.com/ShauryaKohli/github-readme-stats)
+
+
+
+![](https://komarev.com/ghpvc/?username=RaghavDabra&color=blueviolet&style=plastic)
 <!--
 **shauryakohli/shauryakohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
