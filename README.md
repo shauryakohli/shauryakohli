@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-# Hi there, I'm Vashishth Gajjar 👋 
+# Hi there, I'm Shaurya Kohli 👋 
 ## I'm a Computer Science and Engineering Student 
 
 - 🌱 I’m currently learning everything 🤣
