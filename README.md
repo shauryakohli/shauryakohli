@@ -4,9 +4,9 @@
 ## I'm a Computer Science and Engineering Student 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers and designers
-- 🥅 2021 Goals: Contribute more to development through internships
-- ⚡ Fun fact: I love to dance and play chess! 
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to open source developement
+- ⚡ Fun fact: I love playing cricket and listening music
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
