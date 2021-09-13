@@ -3,7 +3,7 @@
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently trying to learn lots of things
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to open source developement
 - ⚡ Fun fact: I love playing cricket and listening music
