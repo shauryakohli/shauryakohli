@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to learn lots of things
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to open source developement
+- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills
 - ⚡ Fun fact: I love playing cricket and listening music
 ---
 
