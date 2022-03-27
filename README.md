@@ -1,4 +1,5 @@
 
+<img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a Computer Science and Engineering Student 
@@ -9,7 +10,6 @@
 - ⚡ Fun fact: I love playing cricket and listening music
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
 ### Connnect with me 📝
 Linkedin<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />[https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/]<br>
