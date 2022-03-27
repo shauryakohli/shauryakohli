@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/coding-programming-hackny-UcK7JalnjCz0k/fullscreen" />
 
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a Computer Science and Engineering Student 
