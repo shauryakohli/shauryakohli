@@ -12,8 +12,8 @@
 
 
 ### Connnect with me 📝
-Linkedin<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />[https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/]<br>
-Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />[https://www.instagram.com/shauryakohli11/]
+Linkedin<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/<br>
+Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />https://www.instagram.com/shauryakohli11/
 
 <br/>
 
@@ -23,7 +23,7 @@ Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="ht
 
 
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
