@@ -37,6 +37,7 @@ Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="ht
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+[![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shauryakohli)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 
