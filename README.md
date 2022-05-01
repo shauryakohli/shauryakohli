@@ -4,7 +4,7 @@
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a 3rd Year CSE Student from  VIT Vellore
 
-- 🌱 I’m currently trying to learn lots of things
+- 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to open source developement and enhance my skills
 - ⚡ Fun fact: I love playing cricket and listening music
