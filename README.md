@@ -34,9 +34,14 @@
 ![SQL](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
-<div align="center">
-[![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shauryakohli)](https://github.com/anuraghazra/github-readme-stats)<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"><br>
+
+  <h3 align="center"><b>Shaurya's Github Stats!</h3></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shauryakohli&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+</p>
+
+<h3 align="center"><b>Most used languages:</h3></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+</p>
 <h3 align="center"> Connect with me:</h3>
   <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Shaurya | LinkedIn" width="40px" >
