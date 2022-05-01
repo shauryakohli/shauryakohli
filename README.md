@@ -33,7 +33,6 @@
 ![SQL](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 [![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shauryakohli)](https://github.com/anuraghazra/github-readme-stats)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 <br/>
