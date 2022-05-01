@@ -37,7 +37,8 @@
 
 [![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shauryakohli)](https://github.com/anuraghazra/github-readme-stats)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"><br>
-<h3> Connect with me:</h3>
+<h3 align="center"> Connect with me:</h3>
+<div align="center">
   <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Shaurya | LinkedIn" width="40px" >
   </a>
@@ -45,13 +46,13 @@
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
   </a>
     <a href="hhttps://github.com/shauryakohli" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Github" width="40px" >
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
   </a>
   <a href="mailto:shauryakohli17@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
   </a>
   <br/>
-
+</div>
 
 
 
