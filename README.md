@@ -3,6 +3,7 @@
 
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a 3rd Year CSE Student from  VIT Vellore
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryakohli" alt="Shaurya Kohli" /> </p>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
@@ -51,6 +52,7 @@
   <a href="mailto:shauryakohli17@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
   </a>
+  <br/>
 
 
 
