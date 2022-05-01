@@ -46,12 +46,11 @@
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
   </a>
     <a href="hhttps://github.com/shauryakohli" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Github" width="40px" >
   </a>
   <a href="mailto:shauryakohli17@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
   </a>
-<br/>
 
 
 
