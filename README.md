@@ -39,6 +39,9 @@ Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="ht
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shauryakohli)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"><b>Most used languages:</h3></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+</p>
 <br/>
 <br/>
 
