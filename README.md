@@ -11,10 +11,6 @@
 ---
 
 
-### Connnect with me 📝
-Linkedin<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/<br>
-Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />https://www.instagram.com/shauryakohli11/
-<br/>
 
 ---
 
@@ -41,6 +37,19 @@ Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="ht
 [![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shauryakohli)](https://github.com/anuraghazra/github-readme-stats)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 <br/>
+<h3> Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Shaurya | LinkedIn" width="40px" >
+  </a>
+  <a href="https://www.instagram.com/shauryakohli11/" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
+  </a>
+    <a href="hhttps://github.com/shauryakohli" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Github" width="40px" >
+  </a>
+  <a href="mailto:shauryakohli17@gmail.com" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
+  </a>
 <br/>
 
 
