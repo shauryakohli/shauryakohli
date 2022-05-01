@@ -14,7 +14,6 @@
 ### Connnect with me 📝
 Linkedin<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /> https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/<br>
 Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />https://www.instagram.com/shauryakohli11/
-
 <br/>
 
 ---
@@ -38,7 +37,6 @@ Instagram<img align="left" alt="bilgehangecici | Instagram" width="35px" src="ht
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Data science](https://user-images.githubusercontent.com/64951804/166140617-cf3da92c-5571-4ac4-94fa-df8ef1e13570.jpg)
 <br/>
 <br/>
 
