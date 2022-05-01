@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
 # Hi there, I'm Shaurya Kohli 👋 
-## I'm a 3rd Year CSE Student 
+## I'm a 3rd Year CSE Student from  VIT Vellore
 
 - 🌱 I’m currently trying to learn lots of things
 - 👯 I’m looking to collaborate with other developers
