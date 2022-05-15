@@ -55,7 +55,7 @@
   <a href="mailto:shauryakohli17@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Shaurya| Gmail" width="40px" >
   </a>
-  <a href="https://www.hackerrank.com/shauryakohli007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leanwithme" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/shauryakohli007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Shaurya|Hackkerank" width="40" /></a>
   <br/>
 </div>
 
