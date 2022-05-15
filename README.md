@@ -62,7 +62,7 @@
 </p>
  <h3><b>Contribution Streak</h3></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryakohli&" alt="shauryakohli" /></p>
-# Productivity Stats📈:
+  <h3><b>Productivity Stats Stats</h3></p>
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauryakohli&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
