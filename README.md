@@ -55,8 +55,8 @@
   <br/>
 </div>
 
-  <h3 align="center"><b>Shaurya's Github Stats!</h3></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shauryakohli&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+  <h3><b>Shaurya's Github Stats!</h3></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=shauryakohli&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 <h3 align="center"><b>Most used languages:</h3></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
