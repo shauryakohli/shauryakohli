@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
 
-### Connect
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
@@ -55,12 +54,11 @@
   <a href="https://discordapp.com/users/1651" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="blank" alt="Shaurya|Discord"  width="40px" /></a>
   <br/>
 </div>
-# Github Stats
   <h3><b>Shaurya's Github Stats!</h3></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=shauryakohli&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 <h3><b>Most used languages:</h3></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryakohli&" alt="shauryakohli" /></p>
 # Productivity Stats📈:
