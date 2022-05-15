@@ -46,9 +46,6 @@
   <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Shaurya | LinkedIn" width="40px" >
   </a>
-  <a href="https://www.instagram.com/shauryakohli11/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
-  </a>
     <a href="hhttps://github.com/shauryakohli" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Github" width="40px" >
   </a>
@@ -57,6 +54,9 @@
   </a>
   <a href="https://www.hackerrank.com/shauryakohli007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" target="blank" alt="Shaurya|Hackkerank" width="40px" /></a>
   <a href="https://leetcode.com/shauryakohli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" target="blank" alt="Shaurya|Leetcode" width="40px" /></a>
+    <a href="https://www.instagram.com/shauryakohli11/" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
+  </a>
   <a href="https://discordapp.com/users/1651" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="blank" alt="Shaurya|Discord"  width="40px" /></a>
   <br/>
 </div>
