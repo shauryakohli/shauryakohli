@@ -60,6 +60,7 @@
 <h3><b>Most used languages:</h3></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
+ <h3><b>Contribution Streak</h3></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryakohli&" alt="shauryakohli" /></p>
 # Productivity Stats📈:
 <table>
