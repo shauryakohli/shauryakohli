@@ -67,6 +67,10 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauryakohli&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
+  ### 🕙 Work Time Breakdown:
+![Shurya Kohli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shauryakohli&layout=compact&theme=tokyonight)
+<br/>
+</div>
 </table>
 
 
