@@ -3,6 +3,7 @@
 <h1> I am Shaurya Kohli</h1>
 
 <img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
+
 ## I'm a pre-final Year CSE Student from  VIT Vellore
 ## Views and Followers
 
