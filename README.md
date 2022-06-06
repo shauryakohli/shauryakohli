@@ -1,11 +1,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h1> I am Shaurya Kohli</h1>
-
-<img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
-
 ## I'm a pre-final Year CSE Student from  VIT Vellore
 ## Views and Followers
+<img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shauryakohli">
@@ -14,7 +12,7 @@
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills
+- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills in CP and DSA
 - ⚡ Fun fact: I love playing cricket and listening music
 ---
 
