@@ -7,7 +7,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shauryakohli">
 </a>
-<a href="https://github.com/shauryakohli?tab=followers"><img src="https://img.shields.io/github/followers/sujalgera01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shauryakohli?tab=followers"><img src="https://img.shields.io/github/followers/shauryakohli?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
@@ -43,6 +43,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+---
+
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
@@ -62,14 +64,14 @@
   <a href="https://discordapp.com/users/1651" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="blank" alt="Shaurya|Discord"  width="40px" /></a>
   <br/>
 </div>
-
+---
 ### My Github Stats
  <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shauryakohli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <br/>
+ <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-  <h3><b>Productivity Stats</h3></p>
+<br>
+ <h3><b>Productivity Stats</h3></p>
 <a href="https://github.com/sujalgera01/github-readme-activity-graph"><img alt="Sujal Gera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shauryakohli&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
