@@ -73,7 +73,7 @@
  <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shauryakohli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br>
-  <b>Note:</b> Most Used Languages is only a metric of the languages my public Github code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Most Used Languages is only a metric of the languages my public Github code consists of and doesn't reflect skill level.
 <br>
  <h3><b>Productivity Stats</h3></p>
 <a href="https://github.com/sujalgera01/github-readme-activity-graph"><img alt="Sujal Gera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shauryakohli&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
