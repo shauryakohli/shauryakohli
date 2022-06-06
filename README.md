@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
 # Hi there, I'm Shaurya Kohli 👋 
-## I'm a final Year CSE Student from  VIT Vellore
+## I'm a pre-final Year CSE Student from  VIT Vellore
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryakohli" alt="Shaurya Kohli" /> </p>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
