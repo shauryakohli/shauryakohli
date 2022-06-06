@@ -5,7 +5,7 @@
 ## I'm a pre-final Year CSE Student from  VIT Vellore
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shauryakohli>
+    <img src="https://komarev.com/ghpvc/?username=shauryakohli">
 </a>
 <a href="https://github.com/shauryakohli?tab=followers"><img src="https://img.shields.io/github/followers/sujalgera01?label=Followers&style=social" alt="GitHub Badge"></a>
 
