@@ -1,8 +1,10 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h1> I am Shaurya Kohli</h1>
+
 ## I'm a pre-final Year CSE Student from  VIT Vellore
 ## Views and Followers
+
 <img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
