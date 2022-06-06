@@ -65,13 +65,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
   <h3><b>Productivity Stats</h3></p>
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauryakohli&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
+<a href="https://github.com/sujalgera01/github-readme-activity-graph"><img alt="Sujal Gera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shauryakohli&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
-</div>
-</table>
 
 
 
