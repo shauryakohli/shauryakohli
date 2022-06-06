@@ -3,7 +3,7 @@
 
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a pre-final Year CSE Student from  VIT Vellore
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shauryakohli">
 </a>
