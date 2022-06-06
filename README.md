@@ -3,7 +3,11 @@
 
 # Hi there, I'm Shaurya Kohli 👋 
 ## I'm a pre-final Year CSE Student from  VIT Vellore
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryakohli" alt="Shaurya Kohli" /> </p>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shauryakohli>
+</a>
+<a href="https://github.com/shauryakohli?tab=followers"><img src="https://img.shields.io/github/followers/sujalgera01?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
