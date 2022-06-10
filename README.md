@@ -3,7 +3,7 @@
 
 ## Hi I am Shaurya Kohli . I'm a pre-final Year CSE Student from  VIT Vellore
 
-<img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
+<img align="right" alt="GIF" height="200px" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen" />
 
 ## Views and Followers
 
