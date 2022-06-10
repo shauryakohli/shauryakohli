@@ -47,10 +47,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://github.com/shauryakohli/shauryakohli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/shaurya-kohli-039b8b1b1/" target="_blank">
@@ -73,10 +69,11 @@
 
 ### My Github Stats
  <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shauryakohli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
  <br>
   <b>Note:</b> Most Used Languages is only a metric of the languages my public Github code consists of and doesn't reflect skill level.
 <br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shauryakohli&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
  <h3><b>Productivity Stats</h3></p>
 <a href="https://github.com/sujalgera01/github-readme-activity-graph"><img alt="Sujal Gera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shauryakohli&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
