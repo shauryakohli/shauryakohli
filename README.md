@@ -3,7 +3,7 @@
 
 ## Hi I am Shaurya Kohli . I'm a pre-final Year CSE Student from  VIT Vellore
 
-<img align="right" alt="GIF" height="200px" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen" />
+<img align="right" alt="GIF" height="200px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76112e2cc514138f6239696d951037a624d261332f4b&rid=giphy.gif&ct=g" />
 
 ## Views and Followers
 
