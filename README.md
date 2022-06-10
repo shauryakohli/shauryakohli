@@ -20,11 +20,6 @@
 ---
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryakohli&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Shaurya Kohli" /></a></p>
 
-<p align="center">
-  <img src="https://github.com/shauryakohli/shauryakohli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
 ---
 
 ### Languages and Tools 🛠 
@@ -52,6 +47,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://github.com/shauryakohli/shauryakohli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
