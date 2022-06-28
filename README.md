@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-## Hi I am Shaurya Kohli . I'm a Final Year CSE Student from  VIT Vellore
+## Hi I am Shourya Kohli . I'm a Final Year CSE Student from  VIT Vellore
 
 <img align="right" alt="GIF" height="200px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76112e2cc514138f6239696d951037a624d261332f4b&rid=giphy.gif&ct=g" />
 
