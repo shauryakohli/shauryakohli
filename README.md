@@ -78,14 +78,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=shauryakohli&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
 <br/>
 -->
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shauryakohli/count.svg" />
-</p>
 
 
 
