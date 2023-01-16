@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills in CP and DSA
+- 🥅 2023 Goals: Contribute more to open source developement and enhance my skills in machine learning and data science
 - ⚡ Fun fact: I love playing cricket and listening music
 ---
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryakohli&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Shaurya Kohli" /></a></p>
