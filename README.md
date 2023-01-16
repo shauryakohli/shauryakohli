@@ -68,7 +68,7 @@
 </div>
 
 ### My Github Stats
- <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shauryakohli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!-- <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shauryakohli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/shauryakohli/github-readme-stats"><img alt="Shaurya Kohli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakohli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br>
  <br>
@@ -77,6 +77,16 @@
  <h3><b>Productivity Stats</h3></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=shauryakohli&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
 <br/>
+-->
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shauryakohli/count.svg" />
+</p>
+
 
 
 
